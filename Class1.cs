@@ -12,6 +12,9 @@ namespace pr3
         { return a + b; }
         public double Minus(double a, double b)
         { return a - b; }
+        public double Multi(double a, double b)
+        { return a * b; }
+
     }
 
 }
