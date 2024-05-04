@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp2
+namespace pr3
 {
     internal class Class1
     {
+        public double Plus(double a, double b)
+        { return a + b; }
+
     }
+
 }
